@@ -2,7 +2,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <!-- CONNECT -->
-<p align="center"><b>Connect with me</b></p>
+<p align="center"><b>Connect with me on</b></p>
 
 <!-- SOCIAL ICONS -->
 <p align="center">
