@@ -27,15 +27,15 @@
 
 <h2 align="center">👤 whoami</h2>
 
-I am a final-year Computer Science student and software developer, with a strong interest in building practical, real-world applications.
+I am a ***final-year Computer Science student and software developer***, with a strong interest in building practical, real-world applications.
 
-I am a multiple hackathon winner, including Smart India Hackathon 2024, where I gained hands-on experience solving problem statements under real constraints while collaborating closely with a team.
+I am a multiple hackathon winner, including ***Smart India Hackathon 2024***, where I gained hands-on experience solving problem statements under real constraints while collaborating closely with a team.
 
-I enjoy building production-ready mobile applications with solid backend systems, clean integrations, and scalable architectures. My experience includes full-stack mobile development, where I have integrated AI/ML features, leveraged cloud services, and applied foundational blockchain concepts to solve real-world problems.
+I enjoy building ***production-ready mobile applications*** with solid backend systems, clean integrations, and scalable architectures. My experience includes ***full-stack mobile development***, where I have integrated AI/ML features, leveraged cloud services, and applied foundational blockchain concepts to solve real-world problems.
 
-I am the Lead Developer of E-Cycle, a mobile application focused on sustainable e-waste management, currently available on the Google Play Store, where I worked across the entire development lifecycle.
+I am the ***Lead Developer of E-Cycle***, a mobile application focused on sustainable e-waste management, currently available on the ***Google Play Store***, where I worked across the entire development lifecycle.
 
-Currently, I serve as the Tech Captain of CSI-MJCET, leading technical initiatives, mentoring juniors, and actively supporting students in building and improving their technical projects.
+Currently, I serve as the ***Tech Captain of CSI-MJCET***, leading technical initiatives, mentoring juniors, and actively supporting students in building and improving their technical projects.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ameena-begum1&label=Profile%20Views&color=blue&style=for-the-badge"/>
