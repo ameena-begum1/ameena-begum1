@@ -27,15 +27,15 @@
 
 <h2 align="center">👤 whoami</h2>
 
-I am a ***Software Developer** and **Flutter Mobile App Developer***, and a ***Smart India Hackathon 2024 Winner***, with hands-on experience building production-ready mobile applications backed by robust backend systems and API integrations.
+I am a final-year Computer Science student and software developer, with a strong interest in building practical, real-world applications.
 
-I am the *Lead Developer of **E-Cycle***, a mobile application focused on sustainable e-waste management, currently live on the **Google Play Store**. I worked across the complete development lifecycle, Flutter-based frontend, backend & API integration, testing, and deployment, while collaborating closely within a fast-moving team.
+I am a multiple hackathon winner, including Smart India Hackathon 2024, where I gained hands-on experience solving problem statements under real constraints while collaborating closely with a team.
 
-Alongside mobile development, I apply *AI/ML concepts, cloud services, and foundational blockchain ideas* where they add real value, particularly in *problem-driven and hackathon environments*.
+I enjoy building production-ready mobile applications with solid backend systems, clean integrations, and scalable architectures. My experience includes full-stack mobile development, where I have integrated AI/ML features, leveraged cloud services, and applied foundational blockchain concepts to solve real-world problems.
 
-I currently serve as the *Tech Captain of **CSI-MJCET***, leading technical initiatives, mentoring peers, and organizing hands-on projects focused on real-world problem solving.
+I am the Lead Developer of E-Cycle, a mobile application focused on sustainable e-waste management, currently available on the Google Play Store, where I worked across the entire development lifecycle.
 
-I’m actively seeking *internship and full-time opportunities* in *Flutter/mobile development, backend & API integration, and applied AI/ML*, and I’m comfortable taking ownership beyond defined roles to deliver impactful solutions.
+Currently, I serve as the Tech Captain of CSI-MJCET, leading technical initiatives, mentoring juniors, and actively supporting students in building and improving their technical projects.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ameena-begum1&label=Profile%20Views&color=blue&style=for-the-badge"/>
